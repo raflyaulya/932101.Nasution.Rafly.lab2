@@ -1,0 +1,29 @@
+*{
+    margin: 0%;
+}
+
+header{
+    background-color: #eaeaea;
+    height: 60px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+p {
+    line-height: 21px;
+    padding: 5px;
+}
+
+.left-column{
+    width: 25%;
+    padding-bottom: 5px;
+    background-color: #c8fc98;
+    font-size: 14px;
+}
+
+.center-column{
+    max-width: calc(100% - 25% - 200px - 10px);
+    padding-left: 10px;
+    font-size: 14px;
+}
+
