@@ -1,0 +1,15 @@
+.green-container{
+    background-color: green;
+    margin: auto;
+    width: 500px;
+    color: white;
+}
+
+.blue-container{
+    background-color: blue;
+    color: white;
+    width: 500px;
+    padding: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
