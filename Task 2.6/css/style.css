@@ -1,0 +1,14 @@
+.top-container{
+    margin: auto;
+    width: 500px;
+}
+
+.low-container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 400px;
+    padding: 40px;
+    border-style: solid;
+    border-width: 12px;
+    border-color: blue;
+}
