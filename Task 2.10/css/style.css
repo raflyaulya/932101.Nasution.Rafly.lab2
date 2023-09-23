@@ -1,0 +1,12 @@
+.float{
+    width: 200px;
+    height: 80px;
+    background-color: aquamarine;
+    float: left;
+    margin: 15px 0 15px 15px;
+}
+
+.clear{
+    clear: left;
+    background-color: bisque;
+}
