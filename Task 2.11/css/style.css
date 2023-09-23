@@ -1,0 +1,24 @@
+*{
+    margin: 0%;
+}
+
+body{
+    margin: 5px;
+}
+
+.box{
+    background-color: cyan;
+    display: flex;
+    border: 2px solid green;
+    font-size: 12px;
+}
+
+.loremipsum-text{
+    width: 100%;
+    /* font-size: 120%; */
+}
+
+img{
+    float: right;
+    position: relative;
+}
