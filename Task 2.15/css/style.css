@@ -1,0 +1,23 @@
+*{
+    margin: 0%;
+}
+
+.flex-part{
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.block-part{
+    display: inline;
+    width: 140px;
+    height: 75px;
+    margin: 20px;
+    font-size: 12px;
+    text-align: left;
+    background-color: aquamarine;
+}
+
+.prop-clear{
+    background: bisque;
+    margin: 10px;
+}
